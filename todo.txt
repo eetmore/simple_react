@@ -1,0 +1,13 @@
+Goal: Create a simple react webpage with multiple react components
+Description: It really needs to be as simple as possible. No css styling necssary or anything like that
+
+Todo =========================================
+
+[] Make my first commit
+[] Create the react starter app
+
+
+Done =========================================
+
+[x] Setup a git repo for the site
+  - this helps me practice git at the same time
