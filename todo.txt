@@ -1,13 +1,17 @@
-Goal: Create a simple react webpage with multiple react components
-Description: It really needs to be as simple as possible. No css styling necssary or anything like that
+Goal: 
+  Create a simple react webpage with multiple react components
+Description: 
+  It really needs to be as simple as possible. No css styling necessary or anything like that
 
 Todo =========================================
 
-[] Make my first commit
-[] Create the react starter app
-
-
 Done =========================================
 
+[x] add several components to the react folder tree
+[x] call them from the parent, order doesn't matter
+[x] remove the unnecessary files from the starter app
+  - I know they discussed what to remove in several videos, maybe check some of those out
+[x] Create the react starter app
+[x] Make my first commit
 [x] Setup a git repo for the site
   - this helps me practice git at the same time
