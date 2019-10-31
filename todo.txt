@@ -5,8 +5,8 @@ Description:
 
 Todo =========================================
 
-Done =========================================
 
+Done =========================================
 [x] add several components to the react folder tree
 [x] call them from the parent, order doesn't matter
 [x] remove the unnecessary files from the starter app
